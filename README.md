@@ -1,7 +1,12 @@
 # 4_CODE_QUIZ
 Code Quiz Project : A timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
 
-#
+# User Requirment 
+
+AS A coding boot camp student:
+* I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+* SO THAT I can gauge my progress compared to my peers
+
 
 # Acceptance Criteria
 
